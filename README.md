@@ -17,7 +17,9 @@ En tonsättares upphovsrätt till sitt verk varar fram till 70 år efter dennes 
 ## Mixed Choir
 
   ### Stenhammar
-   [Sverige](https://github.com/mhall815/OpenChoralScores/blob/main/Partitur/Stenhammar/Sverige.pdf)
+  
+  <a href="https://github.com/mhall815/OpenChoralScores/blob/main/Partitur/Stenhammar/Sverige.pdf" target="_blank">dsd</a>
+
 
 
 
