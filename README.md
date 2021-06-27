@@ -4,7 +4,7 @@ See below for information in english
 
 Hej! 
 
-På den här sidan finns noter till körverk vars upphovsrätt har upphört att gälla.
+På den här sidan finns noter till körverk vars upphovsrätt har gått ut.
 
 Noterna är digitaliserade med syfte att skapa lättlästa och snygga noter.
 
