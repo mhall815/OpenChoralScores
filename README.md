@@ -16,9 +16,9 @@ En tonsättares upphovsrätt till sitt verk varar fram till 70 år efter dennes 
 
 ## Mixed Choir
 
-  ### Stenhammar
-
-  <a href="Sverige.pdf">Sverige</a>
+### Wilhelm Stenhammar
+<a href="Sverige.pdf">Sverige</a>
+<a href="I_Seraillets_Have.pdf">I Seraillets Have (ur Tre körvisor)</a>
 
 
 
