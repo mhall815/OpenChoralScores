@@ -8,8 +8,12 @@ På den här sidan finns noter till körverk vars upphovsrätt har gått ut.
 
 Noterna är digitaliserade med syfte att skapa lättlästa och harmoniserade noter.
 
+För frågor, maila ex@ex.se
+
 ## Om upphovsrätt 
-En tonsättares upphovsrätt till sitt verk varar fram till 70 år efter dennes död. Därefter övergår verket till det som kallas för Public domain och kan fritt framföras, bearbetas, spelas in med mera.
+Enligt svensk lag kvarstår upphovsrätten för ett verk fram tills 70 år efter tonnsättarens/textförfattarens död. 
+
+Därefter övergår verket till allmänn egendom, dvs. kan fritt framföras, bearbetas, spelas in av vem som helst.
 
 
 # Noter
@@ -19,10 +23,10 @@ En tonsättares upphovsrätt till sitt verk varar fram till 70 år efter dennes 
 ### Carl Michael Bellman & Johan Alfred Ahlström
 <a href="Var_redo.pdf">Var redo</a>
 
-
 ### Wilhelm Peterson-Berger
 <a href="Stemning.pdf">Stemning</a>
 
+### Prins 
 
 ### Wilhelm Stenhammar
 <a href="Sverige.pdf">Sverige</a>
