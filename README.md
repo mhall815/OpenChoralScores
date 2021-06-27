@@ -16,7 +16,9 @@ En tonsättares upphovsrätt till sitt verk varar fram till 70 år efter dennes 
 
 ## Mixed Choir
 
-### Stenhammar
+  ### Stenhammar
+  [Sverige](../blob/master/LICENSE)
+
 
 
 
