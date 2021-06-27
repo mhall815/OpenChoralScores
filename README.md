@@ -18,7 +18,7 @@ En tonsättares upphovsrätt till sitt verk varar fram till 70 år efter dennes 
 
   ### Stenhammar
 
-  <a href="mhall815.github.io/OpenChoralScores/Sverige.pdf" target="_blank">dsd</a>
+  <a href="mhall815.github.io/OpenChoralScores/Sverige.pdf">dsd</a>
 
 
 
