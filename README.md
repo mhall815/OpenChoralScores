@@ -26,7 +26,10 @@ Därefter övergår verket till allmänn egendom, dvs. kan fritt framföras, bea
 ### Wilhelm Peterson-Berger
 <a href="Stemning.pdf">Stemning</a>
 
-### Prins 
+### Prins Gustaf
+
+<a href="Studentsången.pdf">Studentsången - <i>"Sjung om studentens lyckliga dag"</i></a>
+
 
 ### Wilhelm Stenhammar
 <a href="Sverige.pdf">Sverige</a>
