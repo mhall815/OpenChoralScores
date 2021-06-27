@@ -23,6 +23,11 @@ Därefter övergår verket till allmänn egendom, dvs. kan fritt framföras, bea
 ### Carl Michael Bellman & Johan Alfred Ahlström
 <a href="Var_redo.pdf">Var redo</a>
 
+### Adolf Fredrik Lindblad
+<a href="En_sommarafton.pdf">En sommarafton</a>
+
+
+
 ### Otto Lindblad
 
 <a href="Längtan_till_landet.pdf">Längtan till landet - <i>"Vintern rasat"</i></a>
