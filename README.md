@@ -1,6 +1,6 @@
 # Open Choral Works
 
-**See below for information in english ** 
+**See below for information in english** 
 
 Hej! 
 
