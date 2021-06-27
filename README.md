@@ -34,11 +34,20 @@ Därefter övergår verket till allmänn egendom, dvs. kan fritt framföras, bea
 
 
 ### Wilhelm Peterson-Berger
+<a href="I_furuskogen.pdf">I furuskogen</a>
+<br>
 <a href="Stemning.pdf">Stemning</a>
+<br>
+<a href="Det_ljusnar.pdf">Vårsång - Det ljusnar</a>
+<br>
+<a href="Visa_i_folkton.pdf">Visa i folkton</a>
+
 
 ### Prins Gustaf
 
 <a href="Studentsång.pdf">Studentsång - <i>"Sjung om studentens lyckliga dag"</i></a>
+<br>
+<a href="Glad_såsom_fågeln.pdf">Vårsång - Glad såsom fågeln</a>
 
 ### Wilhelm Stenhammar
 <a href="Sverige.pdf">Sverige</a>
