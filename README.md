@@ -28,7 +28,7 @@ Därefter övergår verket till allmänn egendom, dvs. kan fritt framföras, bea
 
 ### Prins Gustaf
 
-<a href="Studentsången.pdf">Studentsången - <i>"Sjung om studentens lyckliga dag"</i></a>
+<a href="Studentsång.pdf">Studentsång - <i>"Sjung om studentens lyckliga dag"</i></a>
 
 
 ### Wilhelm Stenhammar
